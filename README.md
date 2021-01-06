@@ -1,4 +1,4 @@
-### Hey! 👋
+### Hey! 👋 :smiley:
 
 My name is José Simões. I'm a husband and father of two sons. I live and work at Leiria, Portugal.
 Currently I'm CEO at [Eclo Solutions](http://www.eclo.solutions), a company that I've created in 2003 along with three colleagues from university.
