@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hey! 👋
 
-<!--
-**josesimoes/josesimoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is José Simões. I'm a husband and father of two sons. I live and work at Leiria, Portugal.
+Currently I'm CEO at [Eclo Solutions](http://www.eclo.solutions), a company that I've created in 2003 along with three colleagues from university.
+I'm founder and core team member of [.NET nanoFramework](https://www.nanoframework.net), an Open Source project that allows programming in C# for micro-controllers.
+Believer on Open Source and contributor to various OSS projects.
 
-Here are some ideas to get you started:
+##### TECH STACK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C# | .NET Core | UWP | C | C++ | IoT | MCU | USB | GPRS | LoRa | Wi-Fi | BLE | Azure Pipelines | CMake | Azure IoT | GitHub | Visual Studio extensibility | Unit Tests | Entity Framework
+
+##### INSPIRATIONAL QUOTES
+
+"Success is the ability to go from failure to failure without losing your enthusiasm." (Anonymous)
+<br/>
+“To be great, be whole; exclude nothing, exaggerate nothing that is not you. Be whole in everything. Put all you are into the smallest thing you do." (Fernando Pessoa)
+
+##### Connect with me:
+[<img align="left" alt="Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />](https://jsimoesblog.wordpress.com/)
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Jose_Simoes)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jose-simoes-eclo)
