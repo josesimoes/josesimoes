@@ -9,7 +9,7 @@ Believer on Open Source and contributor to various OSS projects.
 
 C# | .NET Core | UWP | C | C++ | IoT | MCU | USB | GPRS | LoRa | Wi-Fi | BLE | Azure Pipelines | CMake | Azure IoT | GitHub | Visual Studio extensibility | Unit Tests | Entity Framework
 
-![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=josesimoes)
+![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=josesimoes&show_icons=true&theme=buefy)
 
 ##### INSPIRATIONAL QUOTES
 
