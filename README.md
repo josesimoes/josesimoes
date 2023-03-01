@@ -22,3 +22,5 @@ C# | .NET Core | UWP | C | C++ | IoT | MCU | USB | GPRS | LoRa | Wi-Fi | BLE | A
 [<img align="left" alt="Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />](https://jsimoesblog.wordpress.com/)
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Jose_Simoes)
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jose-simoes-eclo)
+
+<a rel="me" href="https://dotnet.social/@jose_simoes"></a>
