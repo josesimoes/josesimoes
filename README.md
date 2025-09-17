@@ -1,12 +1,13 @@
 ### Hey! 👋 :smiley:
 
-My name is José Simões. I'm a husband and father of two sons. I live and work at Leiria, Portugal.
-Currently I'm CEO at [Eclo Solutions](http://www.eclo.solutions), a company that I've created in 2003 along with three colleagues from university.
-I'm founder and core team member of [.NET nanoFramework](https://www.nanoframework.net), an Open Source project that allows programming in C# for micro-controllers.
-Believer on Open Source and contributor to various OSS projects.
-Electronics enthusiast and love to tinker with stuff.
-Always available to help, answer questions and provide mentorship in the various communities I'm an active participant.
-Awarded 5 times [MVP](https://mvp.microsoft.com/en-US/mvp/profile/bdb45e6f-7976-eb11-a812-000d3a8dfe0d) by Microsoft in IoT and Developer Technologies.
+👋 Hi, I’m José Simões. I'm a husband and father of two sons. I live and work at Leiria, Portugal.  
+- CEO & Founder of [Eclo Solutions](https://www.eclo.solutions)  
+- Founder & Project Lead of [.NET nanoFramework](https://www.nanoframework.net)  
+- 20+ years in embedded systems, IoT, and software development  
+- Skilled in C#, C/C++, Azure, DevOps, STM32, ESP32, Silabs Gecko  
+- Microsoft MVP (IoT & Developer Technologies, 5x awardee)  
+- Passionate about building open-source, communities, and bridging embedded with .NET  
+- Always available to help, answer questions and provide mentorship in the various communities I'm an active participant.
 
 ##### TECH STACK
 
