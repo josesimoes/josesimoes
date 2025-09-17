@@ -6,7 +6,7 @@ I'm founder and core team member of [.NET nanoFramework](https://www.nanoframewo
 Believer on Open Source and contributor to various OSS projects.
 Electronics enthusiast and love to tinker with stuff.
 Always available to help, answer questions and provide mentorship in the various communities I'm an active participant.
-Awarded 4 times [MVP](https://mvp.microsoft.com/en-US/mvp/profile/bdb45e6f-7976-eb11-a812-000d3a8dfe0d) by Microsoft in IoT and Developer Technologies.
+Awarded 5 times [MVP](https://mvp.microsoft.com/en-US/mvp/profile/bdb45e6f-7976-eb11-a812-000d3a8dfe0d) by Microsoft in IoT and Developer Technologies.
 
 ##### TECH STACK
 
